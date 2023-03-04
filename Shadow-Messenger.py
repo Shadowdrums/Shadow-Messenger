@@ -4,7 +4,7 @@ import ipaddress
 import time
 import os
 
-print("Welcome to the TCP messaging program.")
+print("Welcome to the Shadow-Messenger.")
 
 def send_tcp_message(target_ip, message):
     retries = 3
